@@ -2,9 +2,9 @@
 
 <div align="center">
 <img width="700" src="https://user-images.githubusercontent.com/77961304/155700163-c21d8149-af37-48a7-aabd-9aa4b6550e41.png">
+    
+<img height="150" src="https://user-images.githubusercontent.com/77961304/155700173-034699ba-db26-4e92-9a1f-21cbd781b09c.png"> <img height="150" src="https://user-images.githubusercontent.com/77961304/155700174-bcd956d2-16eb-4cf5-855c-d105eb9b204f.png"> <img height="150" src="https://user-images.githubusercontent.com/77961304/155700176-9211e48c-9756-4a5f-83f9-e34befe2efd3.png">
 </div>
-
-<img height="180" src="https://user-images.githubusercontent.com/77961304/155700173-034699ba-db26-4e92-9a1f-21cbd781b09c.png"> <img height="180" src="https://user-images.githubusercontent.com/77961304/155700174-bcd956d2-16eb-4cf5-855c-d105eb9b204f.png"> <img height="180" src="https://user-images.githubusercontent.com/77961304/155700176-9211e48c-9756-4a5f-83f9-e34befe2efd3.png">
 
 👥 개발 인원: 6명(기획자1, 사운더1, 그래픽1, 코더3)
 
